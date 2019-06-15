@@ -3,7 +3,7 @@
  * 通用文件上传类
  * @author lizengcai <lizengcai_vip@sina.com>
  */
-namespace Anker;
+namespace Anker\cls;
 
 class UploadFile
 {
